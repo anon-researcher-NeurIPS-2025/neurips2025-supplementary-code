@@ -28,3 +28,4 @@ dist/
 *.swo
 *~
 
+data/random_trajectories.pkl

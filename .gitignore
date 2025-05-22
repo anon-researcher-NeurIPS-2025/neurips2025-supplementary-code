@@ -1,0 +1,30 @@
+# Evitar archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos de entorno virtual
+venv/
+.env/
+*.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Jupyter 
+.ipynb_checkpoints/
+
+# Carpetas de caché ocultas de Python
+*.egg-info/
+.eggs/
+.build/
+dist/
+
+# Archivos de respaldo o temporales
+*.bak
+*.swp
+*.swo
+*~
+

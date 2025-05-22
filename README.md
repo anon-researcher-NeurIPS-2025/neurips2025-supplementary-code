@@ -136,4 +136,7 @@ For questions, feedback, or potential collaborations, please reach out to: **[Co
 
 
 ---
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 

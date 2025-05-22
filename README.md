@@ -59,9 +59,7 @@ You can generate your own agent-environment trajectories using:
 python scripts/generate_random_scored_trajectories.py
 ```
 
-Our experiments rely on **precomputed resilience-scored trajectories**, located in:
-
-* `data/random_trajectories.pkl`
+Our experiments rely on **precomputed resilience-scored trajectories**, located in: https://drive.google.com/file/d/1Y4hkSGUbrzo-NVPo5w8Tk32KYBCAVhuZ/view?usp=sharing 
 
 The metric used to **evaluate and rank trajectories** by cooperative resilience is implemented in:
 
